@@ -49,4 +49,4 @@ jobs:
     # The desired output format. One of `lcov`, `json`, `html` or `profdata`. Defaults to `lcov`.
           output-format: lcov
     # The desired output filename. Defaults to `coverage/coverage.$ext`, depending on the chosen `output-format`.
-          output-filename: coverage/coverage.$newRepo     
+          output-filename: coverage/coverage.$helloworld.java    
