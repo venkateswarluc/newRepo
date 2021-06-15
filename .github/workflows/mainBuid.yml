@@ -29,9 +29,9 @@ jobs:
       - name: Adding Numbers Build
         run: sh ./AddingNum.sh
       - name: Hello World compile
-        run: javac HelloWorld.java
+        run: javac helloworld.java
       - name: Execute Hello world  
-        run: java Helloworld
+        run: java helloworld
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
