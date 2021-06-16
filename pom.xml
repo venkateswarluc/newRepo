@@ -21,24 +21,24 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:https://github.com/stokito/calculator-unit-test-example-java.git</connection>
-        <url>https://github.com/stokito/calculator-unit-test-example-java</url>
+        <connection>scm:https://github.com/venkateswarluc/newRepo/tree/master/calculator-unit-test-example-java.git</connection>
+        <url>https://github.com/venkateswarluc/newRepo/tree/master/calculator-unit-test-example-java </url>
     </scm>
 
     <issueManagement>
-        <url>https://github.com/stokito/calculator-unit-test-example-java/issues</url>
+        <url>https://github.com/venkateswarluc/newRepo/tree/master/calculator-unit-test-example-java/issues</url>
     </issueManagement>
 
     <developers>
         <developer>
-            <id>stokito</id>
-            <name>Sergey Ponomarev</name>
-            <email>stokito@gmail.com</email>
-            <url>http://stokito.name</url>
+            <id>venkateswarluc</id>
+            <name>venkateswarluc</name>
+            <email>venkat.chavalamudi@gmail.com</email>
+            <url>http://venkat.name</url>
             <timezone>+2</timezone>
             <properties>
-                <gtalk>stokito@gmail.com</gtalk>
-                <skype>stokito</skype>
+                <gtalk>venkat.chavalamudi@gmail.com</gtalk>
+                <skype>venkat</skype>
             </properties>
         </developer>
 
